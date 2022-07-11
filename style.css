@@ -103,6 +103,7 @@ main {
   border-radius: 11px;
   background: #00220000;
   transition: 0.3s;
+  cursor: pointer;
 }
 .btn-size:focus {
   background: #002200;
